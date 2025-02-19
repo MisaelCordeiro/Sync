@@ -1,6 +1,7 @@
 package src.EncapsulacionModificadores;
 
 public class CuentaBancaria {
+    //atributos
     private String titular;
     private Double saldo;
 
