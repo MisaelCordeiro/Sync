@@ -58,6 +58,7 @@ class Gato extends Animales {
         System.out.println("El gato maulla");
     }
 }
+/* 
 
 class Main{
     public static void main(String[] args){
@@ -75,3 +76,4 @@ class Main{
         ghato.hacerSonido();
     }
 }
+*/
